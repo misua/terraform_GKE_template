@@ -6,7 +6,8 @@
 
 
 //You can also use the if statement to execute different actions based on the contents of the Config Map.
-//For example, the following Terraform code will create a Pod if the Config Map my-config-map has a key called image and the value of the key is nginx:
+//For example, the following Terraform code will create a Pod if the Config Map 
+//my-config-map has a key called image and the value of the key is nginx:
 
 
 provider "kubernetes" {
