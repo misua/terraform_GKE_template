@@ -1,1 +1,1 @@
-# terraform_GKE_template
+# terraform_starter_template
